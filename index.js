@@ -1,4 +1,4 @@
-class AsyncStream {
+class AsyncBinaryStream {
 
     #stream
     #writerBuffer = []

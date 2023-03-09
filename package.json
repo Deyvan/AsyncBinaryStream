@@ -1,5 +1,5 @@
 {
-  "name": "asyncstream",
+  "name": "asyncbinarystream",
   "version": "1.0.0",
   "description": "Asynchronous reading/writing of data from Stream, such as uint8, int64, null terminated string",
   "main": "index.js",
@@ -8,10 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Deyvan/AsyncStream.git"
+    "url": "git+https://github.com/Deyvan/AsyncBinaryStream.git"
   },
   "keywords": [
     "async",
+    "binary",
     "stream",
     "reader",
     "writer"
@@ -19,7 +20,7 @@
   "author": "deyvan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Deyvan/AsyncStream/issues"
+    "url": "https://github.com/Deyvan/AsyncBinaryStream/issues"
   },
-  "homepage": "https://github.com/Deyvan/AsyncStream#readme"
+  "homepage": "https://github.com/Deyvan/AsyncBinaryStream#readme"
 }
