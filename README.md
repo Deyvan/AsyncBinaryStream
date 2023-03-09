@@ -1,2 +1,2 @@
-# AsyncStream
+# AsyncBinaryStream
 Wip
