@@ -1,5 +1,5 @@
 {
-  "name": "asyncbinarystream",
+  "name": "async-binary-stream",
   "version": "1.0.0",
   "description": "Asynchronous reading/writing of data from Stream, such as uint8, int64, null terminated string",
   "main": "index.js",
