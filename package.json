@@ -1,0 +1,25 @@
+{
+  "name": "asyncstream",
+  "version": "1.0.0",
+  "description": "Asynchronous reading/writing of data from Stream, such as uint8, int64, null terminated string",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deyvan/AsyncStream.git"
+  },
+  "keywords": [
+    "async",
+    "stream",
+    "reader",
+    "writer"
+  ],
+  "author": "deyvan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Deyvan/AsyncStream/issues"
+  },
+  "homepage": "https://github.com/Deyvan/AsyncStream#readme"
+}
