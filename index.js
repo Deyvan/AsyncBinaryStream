@@ -202,4 +202,4 @@ class AsyncBinaryStream {
 
 }
 
-module.exports = AsyncStream
+module.exports = AsyncBinaryStream
