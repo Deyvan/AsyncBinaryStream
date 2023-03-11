@@ -1,8 +1,9 @@
 {
   "name": "async-binary-stream",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Asynchronous reading/writing of data from Stream, such as uint8, int64, null terminated string",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "node test/test.js"
   },
